@@ -19,6 +19,8 @@
 -> 주의 사항 : start_num과 end_num - 1의 자릿수가 동일해야 합니다! 안그러면 망합니다.
 
 ### 6. for문을 실행시키면 이미지 파일들이 흑백사진(육안으로 판별할 때 털을 잘 보이게 하고자)으로 순서대로 plot되고 그 아래에 털의 유무를 입력하는 input 창이 뜹니다. 거기에 0 또는 1을 입력하고 엔터를 누르면 다음 사진으로 넘어갑니다.
+![input_example](https://user-images.githubusercontent.com/39727494/86952066-6064f500-c18d-11ea-81f8-8a76f0da44d3.png)
+
 
 ### 7. 모든 작업이 완료되면 마지막 블록 코드에 의해 만약 자신이 작업한 사진의 범위가 ISIC_0010000dcm ~ ISIC_0099999.dcm이었다면 그 범위를 반영하여 구글 드라이브의 내 드라이브 안에 hair_labeling10000_100000.csv 형태로 파일이 생성됩니다. 작업이 완료되면 구글 드라이브에 들어가 해당 파일을 확인해 보시면 됩니다.
 ![csv_example](https://user-images.githubusercontent.com/39727494/86951022-eed87700-c18b-11ea-874b-b88cb1fb4dbb.png)
