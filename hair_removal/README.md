@@ -1,5 +1,6 @@
 # Hair removal for colab
 
++) 필요한 dcm(dicom) 파일을 불러오는 과정은 hair_labeling 디렉토리의 README를 동일하게 참조하시면 된다.
 해당 디렉토리에서 버전이 가장 높은 최신 hair_removal 코드를 사용하면 된다.
 
 ## 구현 결과
